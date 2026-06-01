@@ -46,6 +46,8 @@ Integrante 1:
 <img width="1230" height="885" alt="image" src="https://github.com/user-attachments/assets/e1a8be31-b4c0-4ba4-b937-7d8eddb3cb39" />
 <img width="555" height="331" alt="image" src="https://github.com/user-attachments/assets/a282e37d-9342-4acc-9b39-14435f050355" />
 <img width="577" height="683" alt="image" src="https://github.com/user-attachments/assets/a2b40683-9901-4fe6-b8b7-d981ba8b67ff" />
+<img width="584" height="168" alt="image" src="https://github.com/user-attachments/assets/7b10f020-e91a-4e03-a8a3-31b1175224e7" />
+
 
 Integrante 2:
 
