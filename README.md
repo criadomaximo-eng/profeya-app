@@ -41,8 +41,21 @@ Desarrollo de la página de registro.
 Validación básica de formularios.
 Capturas de pantalla
 Integrante 1:
-
+<img width="1230" height="885" alt="image" src="https://github.com/user-attachments/assets/e1a8be31-b4c0-4ba4-b937-7d8eddb3cb39" />
 <img width="555" height="331" alt="image" src="https://github.com/user-attachments/assets/a282e37d-9342-4acc-9b39-14435f050355" />
 <img width="577" height="683" alt="image" src="https://github.com/user-attachments/assets/a2b40683-9901-4fe6-b8b7-d981ba8b67ff" />
+Integrante 2:
+<img width="524" height="203" alt="image" src="https://github.com/user-attachments/assets/25d0912f-9c25-4f69-9eac-7ab8ea2c4dac" />
+<img width="722" height="465" alt="image" src="https://github.com/user-attachments/assets/4f1ab7e8-c5d4-48fd-bb6a-e51fda70a770" />
+<img width="580" height="277" alt="image" src="https://github.com/user-attachments/assets/014ffcfc-c7cd-4836-8918-7110294fabca" />
+Integrante 3:
+<img width="499" height="224" alt="image" src="https://github.com/user-attachments/assets/2dc6b5c1-4720-4d03-a0e5-73803317c67d" />
+<img width="730" height="870" alt="image" src="https://github.com/user-attachments/assets/5981ae8e-06d4-4788-87fa-6e62059113a0" />
+
+
+
+
+
+
 
 
