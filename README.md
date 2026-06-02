@@ -64,6 +64,7 @@ Integrante 3:
 
 
 
-
+Sistema de voluntariado
+desarrollar un sistema de consola que permita administrar personas de una organizacion solidaria deben existir voluntarios y coordinadores los voluntarios deberan mostrar horas trabajadas y coordinadres areas asignadas y personas a cargo aplicar herencia encapsulamiento abstraccion modularidad poliformismo repositorio comun ramas personalizadas
 
 
